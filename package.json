@@ -1,0 +1,19 @@
+{
+  "name": "oxeko",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheDarkVader/zelda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheDarkVader/zelda/issues"
+  },
+  "homepage": "https://github.com/TheDarkVader/zelda#readme"
+}
