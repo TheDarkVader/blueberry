@@ -18,8 +18,11 @@
   "homepage": "https://github.com/TheDarkVader/zelda#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-browserify": "^0.5.1",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^2.3.1",
+    "gulp-uglify": "^1.5.3",
     "uglify": "^0.1.5"
   }
 }
